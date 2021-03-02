@@ -1,0 +1,19 @@
+name: Warps
+main: net.darkunscripted.Warps.Main
+version: 1.0.0
+author: DarkUnScripted#1001
+
+depend:
+  - UltraPrisonCore
+
+commands:
+  warp:
+    description: Main warp command
+  setwarp:
+    description: Main command for setting a warp
+  delwarp:
+    description: Main command for removing a warp
+  setminewarp:
+    description: Main command for setting minewarps
+  mine:
+    description: Main command to teleport to your mine
