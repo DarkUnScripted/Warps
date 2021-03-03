@@ -1,32 +1,25 @@
 messages:
-
   warpgui:
     guiname: "&b&lWarps"
-
   warps:
     deny: "&c&lYou do not have permission to warp there!"
     incorrect-command: "&cWrong usage of command!"
-
   console:
     deny: "&cOnly players can perform this command!"
-
   setwarp:
     deny: "&cYou dont have permission to set a warp!"
     incorrect-command: "&cWrong usage of command!"
     succesful: "&aWarp has been made!"
     warp-exists: "&cThere is already a warp with that name!"
-
   delwarp:
     deny: "&cYou dont have permission to set a warp!"
     incorrect-command: "&cWrong usage of command!"
     succesful: "&aWarp has been deleted!"
     warp-not-exists: "&cThere is no warp with that name!"
-
   setminewarp:
     deny: "&cYou dont have permission to set a minewarp!"
     incorrect-command: "&cWrong usage of command!"
     succesful: "&aMinewarp has been made!"
-
   mine:
     incorrect-command: "&cWrong usage of command!"
     succesful: "&aWarped to you mine!"
